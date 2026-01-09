@@ -27,6 +27,7 @@ uni-notice-board/
 │   ├── notices.html
 │   ├── exams.html
 │   ├── admissions.html
+│   ├── academi-calendar.html
 │   └── contact.html
 └── styles/
     └── style.css
